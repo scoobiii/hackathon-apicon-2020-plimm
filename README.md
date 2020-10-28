@@ -43,3 +43,7 @@ O PLIMM é a cola e o UBER da ECONOMIA CIRCULAR (na visão da mentoria HERE) poi
 #### **Informações adicionais**
 
 A cultura PLIMM oferece suporte e as ferramentas necessárias para a TRANSFORMAÇÃO DIGITAL necessárias ao sucesso da economia circular através da API PLIMM e protocolo PLIMM entre os elos da ECONOMIA CIRCULAR; o cliente e a indústria, para isso usando apenas dois dados do CRM; cliente ANONIMIZADO e PRODUTO CONSUMIDO de forma segura e transparente.
+
+"a economia circular não cabe dentro da minha cabeça, nem da sua. Talvez, na nossa"
+
+https://atlas.mindmup.com/plimm/plimm/index.html
