@@ -2,6 +2,8 @@
 
 ### GRUPO AISSI
 
+zeh { joão[marina(tiago(danilo(rodrigo(millena(bia(idy("monetize a economia circular no ato da compra"))))))]}
+
 #### **Descrição**
 
 plimm { plataforma[framework(api(app(smatcontract(emissor(criptomoeda("monetize a economia circular no ato da compra")))))]}
