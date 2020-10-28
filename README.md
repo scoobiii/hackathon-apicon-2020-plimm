@@ -28,7 +28,10 @@ Os pontos de reciclagem PLIMM contam com robõs que fazem a separação e triage
 2. Transação - **Elo**
 3. Chatbot - **Zenvia**
 4. Computer Vision IA/Deep Learning - **OLHO PLIMM** - baseado naS API'S
+
 **AISSI** - https://github.com/scoobiii/mundrundo5.0/blob/master/app-debug.apk 
+
+
 **DULI** - Detector Universal de Lesões por imagem - https://devpost.com/software/covid-19-detect-ii
 
 #### **Execução**
@@ -37,5 +40,4 @@ O PLIMM é a cola e o UBER da ECONOMIA CIRCULAR (na visão da mentoria HERE) poi
 
 #### **Informações adicionais**
 
-O TIME AISSI FOI DESCLASSIFICADO, hoje dia 28/10/2020, embora o hack termina dia 29/10/2020, porque não foi entregue arquivo PPT explicativo do projeto, embora na apresentação e abertura do hack, foi solicitado mais códigos e menos PPT
-Sampa, 28/10/2020, 19:54 hs
+A cultura PLIMM oferece suporte e as ferramentas necessárias para a TRANSFORMAÇÃO DIGITAL necessárias ao sucesso da economia circular através da API PLIMM e protocolo PLIMM entre os elos da ECONOMIA CIRCULAR; o cliente e a indústria, para isso usando apenas dois dados do CRM; cliente ANONIMIZADO e PRODUTO CONSUMIDO de forma segura e transparente.
