@@ -29,7 +29,7 @@ As COOPERATIVAS DE RECICLAGEM PLIMM possuem robõs que fazem a separação e tri
 1. Geolocalização - **Here**
 2. Transação - **Elo**
 3. Chatbot - **Zenvia**
-4. Computer Vision IA/Deep Learning - **OLHO PLIMM** - baseado naS API'S
+4. Computer Vision IA/Deep Learning - **OLHO PLIMM** - baseado nas API'S
 
 **AISSI** - https://github.com/scoobiii/mundrundo5.0/blob/master/app-debug.apk 
 
