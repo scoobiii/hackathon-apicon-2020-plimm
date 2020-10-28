@@ -48,3 +48,5 @@ A cultura PLIMM oferece suporte e as ferramentas necessárias para a TRANSFORMA�
 "a economia circular não cabe dentro da minha cabeça, nem da sua. Talvez, na nossa"
 
 https://atlas.mindmup.com/plimm/plimm/index.html
+
+escutando: Bon Entendeur Radio invite : James Rod (Exclusive Mix #7)
