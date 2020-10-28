@@ -50,6 +50,15 @@ A cultura PLIMM oferece suporte e as ferramentas necessárias para a TRANSFORMA�
 "a economia circular não cabe dentro da minha cabeça. nem da sua. talvez, na nossa"
 https://atlas.mindmup.com/plimm/plimm/index.html
 
+#### **Próximos Passos**
+
+Legislação Estadual: Desconto de 20% no ICMS para empresas e pessoas que abraçarem o PLIMM 
+Legislação Municipal: Desconto de 20% no ISS para empresas e pessoas que abraçarem o PLIMM
+Cidades Progressistas: Adoção do PLIMM a exemplo de Maricá que criou sua própria moeda virtual o Mucumba, passo importante para adoção do PLIMM
+Eleições 2020: Candidatos podem entregar mais com o PLIMM a seus eleitores
+
+A cultura PLIMM oferece suporte e as ferramentas necessárias para a TRANSFORMAÇÃO DIGITAL necessárias ao sucesso da economia circular através da API PLIMM e protocolo PLIMM entre os elos da ECONOMIA CIRCULAR; o cliente e a indústria, para isso usando apenas dois dados do CRM; cliente ANONIMIZADO e PRODUTO CONSUMIDO de forma segura e transparente.
+
 #### **Escutando**
 
 Bon Entendeur Radio invite : James Rod (Exclusive Mix #7)
