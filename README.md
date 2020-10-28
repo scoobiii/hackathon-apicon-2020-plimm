@@ -39,7 +39,3 @@ O PLIMM é a cola e o UBER da ECONOMIA CIRCULAR (na visão da mentoria HERE) poi
 
 O TIME AISSI FOI DESCLASSIFICADO, hoje dia 28/10/2020, embora o hack termina dia 29/10/2020, porque não foi entregue arquivo PPT explicativo do projeto, embora na apresentação e abertura do hack, foi solicitado mais códigos e menos PPT
 Sampa, 28/10/2020, 19:54 hs
-------------------------------------------------------------------------------------------
-
-
-> Após o término do evento, todos os repositórios serão arquivados, impedindo o envio de novos _commits_. No entando, os integrantes estarão livres para ler e mover o código desenvolvido para um repositório ou organização própria e continuar com o desenvolvimento do mesmo.
