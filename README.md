@@ -9,6 +9,17 @@ zeh { joão[marina(tiago(danilo(rodrigo(millena(bia(idy("monetize a economia cir
 
 plimm { plataforma[framework(api(app(smatcontract(emissor(criptomoeda("monetize a economia circular no ato da compra")))))]}
 
+https://opensea.io/collection/backplimm
+https://opensea.io/collection/bottlewall
+
+APP PLIMM | API de pagamento | Cartão e Conta Digital PLIMM | Geolocation: Cadastra e integra meios de pagamentos múltiplos, cadeia de distribuição, indústria e agentes de reciclagem.
+<!--  --> 
+
+
+<!-- OPCIONAL ! Retirar a linha abaixo caso não queira colocar contato --> 
+## Contato 
+Me segue no bacen pix  https://github.com/bacen/pix-api/discussions/255
+
 
 
 #### **Solução** 
